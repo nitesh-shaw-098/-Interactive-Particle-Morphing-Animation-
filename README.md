@@ -19,7 +19,7 @@ A visually captivating 3D particle animation built with Three.js. This project s
 
 This project is live and interactive on GitHub.
 
-**[Click Here for the Live Demo](https://nitesh-shaw-098.github.io/animation/)**
+**[Click Here for the Live Demo](https://nitesh-shaw-098.github.io/-Interactive-Particle-Morphing-Animation-/)**
 
 -----
 
